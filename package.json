@@ -4,7 +4,8 @@
   "description": "Render rickroll page",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'Never gonna give you up'",
+    "start": "browserify demo.js > bundle.js"
   },
   "keywords": [
     "rickroll",

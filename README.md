@@ -1,6 +1,34 @@
 # rroll
 
-Render rickroll page
+Render rickroll page. [Demo](https://anvaka.github.io/rroll/).
+
+# usage
+
+``` js
+var roll = require('rroll');
+roll();
+```
+
+You can also specify dimensions of video player (in pixels):
+
+``` js
+var roll = require('rroll');
+roll({
+  width: 640,
+  height: 480
+});
+```
+
+Finally you can also set page title:
+
+``` js
+var roll = require('rroll');
+roll({
+  width: 640,
+  height: 480,
+  title: 'My awesome page'
+});
+```
 
 # install
 
@@ -12,4 +40,5 @@ npm install rroll
 
 # license
 
-MIT
+Code is licensed under MIT. The video is served from YouTube and belongs to the
+publisher.
