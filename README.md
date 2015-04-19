@@ -32,7 +32,7 @@ roll({
 
 # install
 
-With [npm](https://npmjs.org) do:
+With [npm](https://www.youtube.com/watch?v=dQw4w9WgXcQ) do:
 
 ```
 npm install rroll
