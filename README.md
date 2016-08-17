@@ -1,6 +1,8 @@
 # rroll
 
-Render rickroll page. [Demo](https://anvaka.github.io/rroll/).
+Render rickroll page. [Demo](https://anvaka.github.io/
+
+Update: [YouTube changed URL to his video to have RICKROLL in it](https://www.youtube.com/watch?v=dQw4w9WgXcQ). I guess it's sign of respect...
 
 # usage
 
